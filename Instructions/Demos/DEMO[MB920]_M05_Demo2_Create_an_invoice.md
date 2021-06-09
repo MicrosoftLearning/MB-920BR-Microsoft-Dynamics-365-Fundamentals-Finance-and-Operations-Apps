@@ -106,7 +106,7 @@ Em seguida, vamos verificar o botão Totais para saber como ficará a fatura de 
 É possível criar um demonstrativo para qualquer intervalo de datas desejado.
 
 1. Marque a caixa **De** e digite **01/02/2021**.
-1. 
+
 1. Marque a caixa **Até** e digite a data de hoje.
 
 1. Ao concluir, selecione **Calcular**.

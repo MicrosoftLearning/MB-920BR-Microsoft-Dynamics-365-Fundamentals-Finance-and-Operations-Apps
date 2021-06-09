@@ -6,7 +6,7 @@ lab:
 
 # Módulo 1: Conheça os Princípios básicos do Dynamics 365 Supply Chain Management
 
-## Laboratório 2 - Explorar os espaços de trabalho e a filtragem’
+## Laboratório 2 - Explorar os espaços de trabalho e a filtragem
 
 ## Objetivos
 
@@ -45,7 +45,7 @@ Quando você entra no Finance and Operations pela primeira vez, encontra muitos 
 
 1. Selecione seu bloco **Meu espaço de trabalho** e depois mova-o para outro local na home page.
 
-    >[!Note] Se você não conseguir mover o bloco, atualize a página e repita as etapas anteriores para movê-lo.
+    >[!Observação] Se você não conseguir mover o bloco, atualize a página e repita as etapas anteriores para movê-lo.
 
 1. Feche a barra de ferramentas.
 

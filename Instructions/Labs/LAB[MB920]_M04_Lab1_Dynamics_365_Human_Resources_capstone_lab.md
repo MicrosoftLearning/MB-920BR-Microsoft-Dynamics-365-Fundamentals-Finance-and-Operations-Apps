@@ -4,7 +4,7 @@ lab:
     module: 'Módulo 4: Conheça os princípios básicos do Microsoft Dynamics 365 Human Resources'
 ---
 
-## Laboratório 1 - Laboratório do trabalho de conclusão de curso do Dynamics 365 Human Resource'
+## Laboratório 1 - Laboratório do trabalho de conclusão de curso do Dynamics 365 Human Resource
 
 ## Objetivo
 

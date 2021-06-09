@@ -43,7 +43,7 @@ Em seguida, você precisará selecionar as empresas ou entidades legais que ser�
 
 1. Marque a caixa **Empresa**.
 
-1. Na parte superior esquerda do menu suspenso **Empresa**, selecione a **marca de seleção ** para selecionar todas as empresas.
+1. Na parte superior esquerda do menu suspenso **Empresa**, selecione a **marca de seleção** para selecionar todas as empresas.
 
 1. Selecione **Criar**.  
     Acabamos de criar uma agenda de fechamento de final do mês. Neste exemplo, muitos elementos da agenda já foram criados pelo grupo responsável por administrar o sistema de finanças. O modelo de final do mês, por exemplo, já reflete as diferentes áreas de tarefas.

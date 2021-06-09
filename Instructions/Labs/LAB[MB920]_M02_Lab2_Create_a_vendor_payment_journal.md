@@ -47,7 +47,7 @@ Crie uma nova entrada de diário de pagamentos de fornecedor e proposta de pagam
 
 1. Em **De** e **Até**, exclua os valores existentes. Para este exercício, esses intervalos de datas ficarão em branco.
 
-    >[!NOTE] Uma data de pagamento mínimo pode ser usada como a data de pagamento. A data de pagamento mínimo será a data mais próxima usada durante a criação de pagamentos. Por exemplo, se uma fatura tiver uma data de vencimento posterior à data de pagamento mínimo, o vencimento se tornará a data de pagamento, em vez da data de pagamento mínimo, para pagar a fatura na data mais recente possível.
+    >[!OBSERVAÇÃO] Uma data de pagamento mínimo pode ser usada como a data de pagamento. A data de pagamento mínimo será a data mais próxima usada durante a criação de pagamentos. Por exemplo, se uma fatura tiver uma data de vencimento posterior à data de pagamento mínimo, o vencimento se tornará a data de pagamento, em vez da data de pagamento mínimo, para pagar a fatura na data mais recente possível.
 
 1. Expanda **Registros a serem incluídos** e depois examine as opções.  
     Com frequência, o filtro é usado para restringir as faturas selecionadas para pagamento por grupo de fornecedores ou método de pagamento. Por exemplo, você pode adicionar um filtro para pagar apenas faturas por cheque nessa rodada de pagamentos.

@@ -4,7 +4,7 @@ lab:
     module: 'Módulo 2: Conheça os princípios básicos do Microsoft Dynamics 365 Finance'
 ---
 
-## Laboratório 3 - Laboratório do trabalho de conclusão de curso do Dynamics 365 Finance'
+## Laboratório 3 - Laboratório do trabalho de conclusão de curso do Dynamics 365 Finance
 
 ## Objetivo
 
@@ -216,7 +216,7 @@ Neste laboratório, vamos ver os principais recursos do Microsoft Dynamics 365 F
     | Número do item| S0001|
     | Quantidade| 2|
 
-    >[!NOTE] Talvez seja preciso rolar a tela para a direita para ver a coluna **Quantidade**.
+    >[!OBSERVAÇÃO] Talvez seja preciso rolar a tela para a direita para ver a coluna **Quantidade**.
 
 1. No painel de ações, selecione **Salvar**.
 

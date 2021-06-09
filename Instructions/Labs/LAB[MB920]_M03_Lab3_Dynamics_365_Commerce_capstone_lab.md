@@ -4,7 +4,7 @@ lab:
     module: 'Módulo 3: Conheça os princípios básicos do Microsoft Dynamics 365 Commerce'
 ---
 
-## Laboratório 3 - Laboratório do trabalho de conclusão de curso do Dynamics 365 Commerce'
+## Laboratório 3 - Laboratório do trabalho de conclusão de curso do Dynamics 365 Commerce
 
 ## Objetivo
 
@@ -119,7 +119,7 @@ Neste laboratório, vamos ver os fundamentos da configuração da matriz do Comm
 
 1. No painel de ações, selecione **Editar**.
 
-1. Na caixa de diálogo, selecione **Sim **para confirmar a seleção de edição.
+1. Na caixa de diálogo, selecione **Sim** para confirmar a seleção de edição.
 
 1. Na página AW-Outlet, selecione a guia rápida **Canal comercial**.
 

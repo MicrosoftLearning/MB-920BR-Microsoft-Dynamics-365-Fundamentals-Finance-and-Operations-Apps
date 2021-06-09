@@ -32,7 +32,7 @@ A loja de Boston da sua empresa está pronta para direcionar as vendas de alguns
 
 1. Selecione o menu **Modo de simultaneidade de desconto**, examine as opções disponíveis e depois selecione **Melhor preço**.
 
-    >[!NOTE] Ao escolher entre as opções de modo de simultaneidade, tenha em mente o seguinte:
+    >[!OBSERVAÇÃO] Ao escolher entre as opções de modo de simultaneidade, tenha em mente o seguinte:
     >
     >  - Quando vários descontos compostos são aplicáveis, o desconto mais alto sempre será calculado primeiro.  Em seguida, o próximo desconto mais alto é calculado sobre o valor restante.  Essa hierarquia de cálculos continuará até que todos os descontos compostos tenham sido aplicados.  
     >    **Correto**: 40% de desconto + 20% de desconto = 52% de desconto  

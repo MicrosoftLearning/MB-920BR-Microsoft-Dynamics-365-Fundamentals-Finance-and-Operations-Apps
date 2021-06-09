@@ -6,7 +6,7 @@ lab:
 
 # Módulo 1: Conheça os Princípios básicos do Dynamics 365 Supply Chain Management
 
-## Laboratório 1 - Navegar por aplicativos de finanças e operações’
+## Laboratório 1 - Navegar por aplicativos de finanças e operações
 
 ## Objetivos
 
@@ -26,7 +26,7 @@ Agora que você está familiarizado com os aplicativos de finanças e operaçõe
 
         Colar conteúdo
 
-        Administrador
+        Administrator
 
     - Senha:
 
@@ -34,7 +34,7 @@ Agora que você está familiarizado com os aplicativos de finanças e operaçõe
 
         pass@word1
 
-    >[!Note] Pode ser que o Internet Explorer seja aberto automaticamente na área de trabalho. Caso você ainda não tenha executado as etapas 2-5, termine-as antes de voltar para o Internet Explorer.
+    >[!Observação] Pode ser que o Internet Explorer seja aberto automaticamente na área de trabalho. Caso você ainda não tenha executado as etapas 2-5, termine-as antes de voltar para o Internet Explorer.
 
 1. Selecione o arquivo **AdminUserProvisioning** na área de trabalho.
 
