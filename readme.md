@@ -1,7 +1,7 @@
 # INF99X: Curso de amostra
 
 - **[Faça download da última versão do Manual do aluno e de todos os arquivos do conteúdo](../../releases/latest)**
-- **Você é MCT? ** - Confira nosso [Guia do usuário do GitHub para MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
+- **Você é MCT?** - Confira nosso [Guia do usuário do GitHub para MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 - **Precisa criar manualmente as instruções de laboratório?** -  As instruções estão disponíveis no repositório [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build)
 
 ## O que estamos fazendo?
