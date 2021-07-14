@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratório 7: Crie uma ordem de serviço de manutenção'
     module: 'Módulo 1: Conheça os Princípios básicos do Microsoft Dynamics 365 Supply Chain Management'
