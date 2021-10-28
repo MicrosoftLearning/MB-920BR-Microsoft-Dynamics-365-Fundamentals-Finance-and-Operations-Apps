@@ -109,11 +109,11 @@ Suas credenciais podem ser encontradas no menu **Recursos** no canto superior di
 
 1. Destaque um dos fornecedores da lista e, à direita, selecione o menu **Informações relacionadas** e veja as informações adicionais fornecidas.
 
-1. Na lista de fornecedores, selecione **Northwind Traders**.
+1. Na lista de fornecedores, selecione **Suprimentos do escritório Acme**. 
 
 1. Selecione o menu **Agrupar** e, em seguida, o título da coluna **Grupo de fornecedores**.
 
-    ![Captura de tela do título da coluna Grupo de fornecedores para Northwind Traders.](./media/m1-common-all-vendor-group-menu.png)
+    ![Uma captura de tela da coluna do grupo do fornecedor para Suprimentos do escritório Acme.](./media/m1-common-vendor-group-menu-24493345.png)
 
 1. Muitos menus têm opções de classificação e filtragem disponíveis. Use os filtros para localizar rapidamente o conteúdo de campo que você está procurando.
 
