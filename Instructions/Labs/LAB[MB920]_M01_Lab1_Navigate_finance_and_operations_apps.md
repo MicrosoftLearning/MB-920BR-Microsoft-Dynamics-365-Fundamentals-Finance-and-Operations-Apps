@@ -79,7 +79,7 @@ Suas credenciais podem ser encontradas no menu **Recursos** no canto superior di
 
 1. Em **Configuração**, selecione **Opções de desempenho do cliente**.
 
-1. No painel Opções de desempenho do cliente, em **Recurso de textos explicativos habilitado**, selecione o botão de alternância e defina-o como **Sim**.
+1. No painel de opções de Desempenho do cliente, em **Balões de recursos habilitados**, selecione o interruptor e defina-o para **Sim**.
 
 1. Examine as outras opções disponíveis, role a tela para a parte inferior do painel e selecione **OK**.
 
